@@ -9,4 +9,7 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+I’m a web developer studying at SRMV CAS, Coimbatore, passionate about creating user-friendly websites and applications. With skills in HTML, CSS, and JavaScript, I'm eager to tackle real-world challenges and continuously learn in the process. When I’m not coding, I enjoy Chess!
+
+
+
